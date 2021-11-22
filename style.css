@@ -23,6 +23,18 @@
     text-align: center;
 }
 
-.row {
-    width: 40%;
+.one {
+    width: 50%;
+}
+
+.chart {
+    margin-top: 80px;
+}
+
+.chart h5 {
+    color: blueviolet;
+}
+
+.chart strong {
+    font-size: 70px;
 }
