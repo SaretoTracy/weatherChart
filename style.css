@@ -1,4 +1,9 @@
-* {
-    padding: 0;
-    width: 80%;
+#exampleDataList {
+    width: 60%;
+    color: blueviolet;
+}
+
+.current {
+    margin-top: 60px;
+    color: blueviolet;
 }
