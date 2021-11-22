@@ -18,3 +18,11 @@
     display: flex;
     justify-content: space-between;
 }
+
+.temp p {
+    text-align: center;
+}
+
+.row {
+    width: 40%;
+}
